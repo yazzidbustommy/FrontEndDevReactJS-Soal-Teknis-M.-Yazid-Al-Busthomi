@@ -2,6 +2,8 @@
 
 A React-based restaurant discovery application that allows users to browse, filter, and view details about restaurants.
 
+link deploy : https://672f4a088e65673d9aca4766--restaurantdiscovery.netlify.app/
+
 ## Technical Stack
 
 - React 18.3.1
