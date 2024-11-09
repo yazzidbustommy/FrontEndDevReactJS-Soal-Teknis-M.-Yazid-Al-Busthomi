@@ -60,7 +60,7 @@ function FilterSection({ filters, setFilters }) {
         </div>
 
         <div>
-          <span className="font-medium block mb-2">Cuisine Type</span>
+          <span className="font-medium block mb-2">Category</span>
           <select
             value={filters.cuisineType}
             onChange={(e) =>
