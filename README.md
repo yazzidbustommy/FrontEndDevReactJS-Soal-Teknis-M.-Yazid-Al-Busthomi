@@ -5,7 +5,7 @@ A React-based restaurant discovery application that allows users to browse, filt
 ## Technical Stack
 
 - React 18.3.1
-- Node.js 18+
+- Node.js 20.14.0
 - Vite
 - TanStack Query
 - React Router DOM
@@ -16,6 +16,9 @@ A React-based restaurant discovery application that allows users to browse, filt
 ## Setup Instructions
 
 1. Clone the repository
+   ```bash
+   git clone https://github.com/yazzidbustommy/FrontEndDevReactJS-Soal-Teknis-M.-Yazid-Al-Busthomi.git
+   ```
 2. Install dependencies:
    ```bash
    npm install
